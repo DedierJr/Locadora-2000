@@ -1,0 +1,1 @@
+git init -> Cria um repoitorio vazio
